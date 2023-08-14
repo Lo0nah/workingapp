@@ -1,0 +1,4 @@
+baseURL = 'https://black-glacier-0ef61a500.3.azurestaticapps.net'
+languageCode = 'en-us'
+title = 'Arts of Finance by Erica'
+theme = 'hugo-theme-massively'
